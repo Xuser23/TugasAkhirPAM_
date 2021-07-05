@@ -1,0 +1,2 @@
+rootProject.name = "TugasAkhirPAM"
+include ':app'
